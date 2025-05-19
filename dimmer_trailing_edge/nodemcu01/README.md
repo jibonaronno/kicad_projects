@@ -24,3 +24,5 @@ Found another solution as below:
 ![image.png](image%203.png)
 
 This 3 channel dimmer is build on ESP8266 NodeMCU . Complete Kicad Drawing is available in [https://github.com/jibonaronno/kicad_projects/tree/main/dimmer_trailing_edge/nodemcu01](https://github.com/jibonaronno/kicad_projects/tree/main/dimmer_trailing_edge/nodemcu01)
+
+The Arduino code is available under qnod01 folder. It is required to provide correct Wifi credentials the the Arduino code and also need to find the IP address of NodeMCU. After successfull connection between Wifi and NodeMCU, user can browse to the NodeMCU IP Address from phone browser and control dimming.
